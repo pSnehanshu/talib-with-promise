@@ -1,0 +1,27 @@
+{
+  "name": "talib-with-promise",
+  "version": "1.0.0",
+  "description": "Promised based wrapper for Node.js Technical Analysis Library (https://github.com/oransel/node-talib)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pSnehanshu/talib-with-promise.git"
+  },
+  "keywords": [
+    "talib",
+    "technical",
+    "analysis"
+  ],
+  "author": "Snehanshu Phukon",
+  "license": "MIT",
+  "dependencies": {
+    "talib": "^1.0.5"
+  },
+  "bugs": {
+    "url": "https://github.com/pSnehanshu/talib-with-promise/issues"
+  },
+  "homepage": "https://github.com/pSnehanshu/talib-with-promise#readme"
+}
