@@ -1,6 +1,6 @@
 {
   "name": "talib-with-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promised based wrapper for Node.js Technical Analysis Library (https://github.com/oransel/node-talib)",
   "main": "index.js",
   "scripts": {
