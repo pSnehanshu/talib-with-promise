@@ -1,8 +1,10 @@
 # talib-with-promise
-Promised based wrapper for Node.js Technical Analysis Library (https://github.com/oransel/node-talib)
+Promised based wrapper for [Node.js Technical Analysis Library](https://github.com/oransel/node-talib).
 
-talib promisify module
+## Installation
+`$ npm i talib-with-promise --save`
 
+## Usage
 ```javascript
 const talib = require('talib-with-promise');
 
